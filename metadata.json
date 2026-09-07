@@ -1,0 +1,8 @@
+{
+  "name": "Himalaya RO",
+  "description": "Professional RO Water Purifier Sales, Service & Repair in Sector 46, Gurugram. We service all major RO brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
